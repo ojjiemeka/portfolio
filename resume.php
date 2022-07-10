@@ -12,7 +12,7 @@
     <meta name="keywords" content="vcard, resposnive, retina, resume, jquery, css3, bootstrap, portfolio" />
     <meta name="author" content="lmpixels" />
     <link rel="shortcut icon" href="favicon.ico">
-
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
 
     <link rel="stylesheet" href="css/normalize.css" type="text/css">
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
@@ -45,47 +45,9 @@
         <div id="page_container" class="page-container bg-move-effect" data-animation="transition-flip-in-right">
 
             <!-- Header -->
-            <header id="site_header" class="header">
-                <div class="header-content clearfix">
-
-                    <!-- Text Logo -->
-                    <div class="text-logo">
-                        <a href="index.html">
-                            <div class="logo-symbol">C O</div>
-                            <div class="logo-text">Chukwuemeke <span>Ojji</span></div>
-                        </a>
-                    </div>
-                    <!-- /Text Logo -->
-
-                    <!-- Navigation -->
-                    <div class="site-nav mobile-menu-hide">
-                        <ul class="leven-classic-menu site-main-menu">
-                            <li class="menu-item current-menu-item">
-                                <a href="index.html">About Me</a>
-                            </li>
-
-                            <li class="menu-item">
-                                <a href="resume.html">Resume</a>
-                            </li>
-
-                            <li class="menu-item">
-                                <a href="portfolio.html">Portfolio</a>
-                            </li>
-
-
-                            <li class="menu-item">
-                                <a href="contact.html">Contact</a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <!-- Mobile Menu Toggle -->
-                    <a class="menu-toggle mobile-visible">
-                        <i class="fa fa-bars"></i>
-                    </a>
-                    <!-- Mobile Menu Toggle -->
-                </div>
-            </header>
+            <?php
+          include('header.php')
+          ?>
             <!-- /Header -->
 
             <div id="main" class="site-main">
@@ -293,27 +255,9 @@
             </div>
 
             <!-- Footer -->
-            <footer class="site-footer clearfix">
-                <div class="footer-social">
-                    <ul class="footer-social-links">
-                        <li>
-                            <a href="https://twitter.com/eme_kah" target="_blank">Twitter</a>
-                        </li>
-
-                        <li>
-                            <a href="https://www.linkedin.com/in/ojji-chukwuemeke-686777194" target="_blank">Linkedin</a>
-                        </li>
-
-                        <li>
-                            <a href="#" target="_blank">Instagram</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="footer-copyrights">
-                    <p>© 2020 All rights reserved. LMPixels.</p>
-                </div>
-            </footer>
+            <?php
+          include('footer.php')
+          ?>
             <!-- /Footer -->
 
         </div>
