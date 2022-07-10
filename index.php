@@ -85,8 +85,8 @@
                                                         using software architectural patterns like MVC and MVVM. </p>
 
                                                     <div class="home-buttons">
-                                                        <a href="#" target="_blank" class="btn btn-primary">View CV</a>
-                                                        <a href="contact.html" target="_self" class="btn btn-secondary">Contact</a>
+                                                        <a href="https://drive.google.com/file/d/1ns1p_cDFks6S0rDGuprjJBDTarB96xdI/view?usp=sharing" target="_blank" class="btn btn-primary">View CV</a>
+                                                        <a href="tel:+2348139045472" target="_self" class="btn btn-secondary">Contact</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -117,8 +117,8 @@
 
                                         <div class="ci-text">
                                             <h4>Web Design</h4>
-                                            <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a tincidunt turpis turpis tempus
-                                                ex.
+                                            <p>
+                                                A web developer with 3 years experience in building pixel perfect user interfaces, integrating REST APIs of both complex and simple natures, perfecting the craft of writing clean and maintainable code using software architectural patterns like MVC and MVVM.
                                             </p>
                                         </div>
                                     </div>
