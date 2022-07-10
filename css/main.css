@@ -1178,6 +1178,8 @@ td {
 
 .t-1 {
     color: #73607c;
+    display: flex;
+    justify-content: center;
 }
 
 .t-2 {
