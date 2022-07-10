@@ -4848,6 +4848,8 @@ a.post-thumbnail:hover {
     list-style: none;
     margin: 0;
     padding: 0;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .site-footer .footer-social-links li {
