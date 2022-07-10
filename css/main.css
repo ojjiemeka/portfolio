@@ -4831,12 +4831,12 @@ a.post-thumbnail:hover {
 .site-footer {
     display: block;
     position: relative;
-    margin: 60px -70px -60px;
+    /* margin: 60px -70px -1; */
     padding: 15px 45px;
     background-color: #252525;
     border-top: 2px solid #333;
-    border-bottom-left-radius: 40px;
-    border-bottom-right-radius: 40px;
+    /* border-bottom-left-radius: 40px; */
+    /* border-bottom-right-radius: 40px; */
 }
 
 .footer-social {
