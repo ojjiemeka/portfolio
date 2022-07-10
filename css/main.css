@@ -1166,6 +1166,32 @@ td {
     background-size: cover;
 }
 
+.sp-1 {
+    font-size: 30px;
+    color: #FA8D70;
+}
+
+.sp-2 {
+    font-size: 30px;
+    color: #fcc666;
+}
+
+.t-1 {
+    color: #73607c;
+}
+
+.t-2 {
+    color: #c1b9ae;
+}
+
+.t-3 {
+    color: #c56d86;
+}
+
+.item-text {
+    font-weight: 700 !important;
+}
+
 .logo-symbol {
     float: left;
     width: 4em;
